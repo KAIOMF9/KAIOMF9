@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas Vindas Ao Meu Perfil🏐💙
 
-<!--
-**KAIOMF9/KAIOMF9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kaio Mangolin Fernandes
 
-Here are some ideas to get you started:
+- 📘Estou estudando na [Alura](https://.com.br)📘
+- ◀️Estou aprendendo o JavaScrip, uma linguagem muito legal▶️
+- 🏐Utilizo este espaço para organizar e compartilhar os meus projetos desenvolvidos🏐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gosto muuito de Vôlei
+
+- ### Você pode entrar em contato comigo📫
+- mangolin.fernandes@escola.pr.gov.br
+- kaiomangolinfernandes10@gmail.com
+- No Instagram @kaiomf999
+
+![](https://media.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
